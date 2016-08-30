@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha -R nyan",
     "coverage": "node_modules/.bin/istanbul cover node_modules/.bin/_mocha"
   },
   "keywords": [],
